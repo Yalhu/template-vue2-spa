@@ -9,7 +9,7 @@
 
 <script>
 import Comp from '@components/Comp.vue'
-import { getDemo } from '@api'
+// import { getDemo } from '@api'
 
 export default {
   name: 'View',
@@ -38,7 +38,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 #view{ /* stylelint-disable-line */
 }
 .view-main {

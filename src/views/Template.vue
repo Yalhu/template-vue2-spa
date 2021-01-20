@@ -37,7 +37,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 #template { /* stylelint-disable-line */
 
 }

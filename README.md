@@ -5,7 +5,7 @@ vue2.x 单页应用简易模板。
 没有针对移动端的特殊设置，设计初衷主要是针对后台简单/单页管理模版。
 项目复杂可以修改/添加。
 
-[模版demo](https://yalhu.github.io/template-vue2-spa/web)
+[模版demo](https://yalhu.github.io/template-vue2-spa/index.html)
 ## 介绍
 1）默认使用element-ui;且css不参与打包，在入口html中引入.
   js 还是通过ES6方式使用。会单独打一个包
